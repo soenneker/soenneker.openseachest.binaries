@@ -1,0 +1,3 @@
+openSeaChest v26.03.2
+https://github.com/Seagate/openSeaChest/releases/tag/v26.03.2
+Source: https://github.com/Seagate/openSeaChest/tree/v26.03.2
